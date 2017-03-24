@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:lesson16-factorial/lesson16-factorial.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:lesson15-sum/lesson15-sum.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:lesson14-sum/lesson14-sum.xcodeproj">
    </FileRef>
    <FileRef
